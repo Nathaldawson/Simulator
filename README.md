@@ -1,4 +1,7 @@
-# Simulator Project
+
+(https://github.com/user-attachments/assets/e2187158-6f0a-4649-9b51-fe7cc02edbb2)
+
+ Simulator Project
 
 This project simulates trading strategies on stock market data using Python. It includes a modular design with the following main components:
 
