@@ -41,6 +41,3 @@ python Simulator.py
 
 ## License
 MIT License.
-
----
-Created by Nathal Dawson
